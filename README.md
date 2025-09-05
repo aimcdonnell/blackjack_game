@@ -1,7 +1,7 @@
 # Blackjack Game
 
 ## Description
-A project taken from Jose Portilla's "The Complete Python Bootcamp From Zero to Hero in Python" course, which uses object-oriented programming. The blackjack rules have been simplified for this project.
+A Python project taken from Jose Portilla's "The Complete Python Bootcamp From Zero to Hero in Python" course, which uses object-oriented programming. The blackjack rules have been simplified for this project.
 
 ## Simplified Rules
 1) The player competes with a computer dealer
